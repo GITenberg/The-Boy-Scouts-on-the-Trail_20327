@@ -1,0 +1,26 @@
+_repo: The-Boy-Scouts-on-the-Trail_20327
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 20327-h/images/fcover.jpg
+creator:
+  author:
+    agent_name: Durston, George
+    gutenberg_agent_id: '1844'
+    url: http://www.gutenberg.org/2009/agents/1844
+description: ''
+gutenberg_bookshelf: Children's Book Series
+gutenberg_issued: '2007-01-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20327'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Boy Scouts -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Adventure and adventurers -- Juvenile fiction'
+title: The Boy Scouts on the Trail
+url: http://www.gutenberg.org/ebooks/20327
